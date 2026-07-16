@@ -142,8 +142,8 @@ Make sure you have the following installed:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/MrBeast-Anirban/Enterprise-Document-Intelligence-RAG-Agent.git
-cd Enterprise-Document-Intelligence-RAG-Agent
+git clone https://github.com/MrBeast-Anirban/Enterprise_Document_Intelligence_RAG_Agent.git
+cd Enterprise_Document_Intelligence_RAG_Agent
 ```
 
 ### 2. Install dependencies
